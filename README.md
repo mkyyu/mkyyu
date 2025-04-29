@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">I make stuff occasionally.</h3>
+<h2 align="left">Hi 👋, I'm Mark</h2>
+<h4 align="center">I make stuff occasionally</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkyyu&label=Profile%20views&color=0e75b6&style=flat" alt="mkyyu" /> </p>
 
