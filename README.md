@@ -11,4 +11,4 @@
 <p align="left">
 </p>
 
-- 📫 Email me **mkyum@duck.com**, I may or may not respond. 
+- 📫 Email me **mkyum@duck.com**
