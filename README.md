@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkyyu&label=Profile%20views&color=0e75b6&style=flat" alt="mkyyu" /> </p>
 
-- 📸 I also take pictures [photos.yueming.org](https://photos.yueming.org/)
+- 📸 I also take pictures [shot.mkyu.one](https://shot.mkyu.one/)
 
 - 📷 Or find me on Flickr [flickr.com/photos/yymark](https://flickr.com/photos/yymark/)
 
